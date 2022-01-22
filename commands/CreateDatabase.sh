@@ -1,6 +1,5 @@
 #!/bin/bash
 
-function  {
     echo "Enter the Database Name:"
     read databaseName
 
@@ -13,4 +12,3 @@ function  {
         mkdir $databaseName
         echo "$databaseName database is created successfully" 
     fi
-}
