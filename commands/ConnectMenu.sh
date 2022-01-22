@@ -1,3 +1,6 @@
+    #!/bin/bash
+    
+    
     echo "Successfully connected to $DatabaseConnect database"
     echo "Connect Menu:"
     select choice in "Create Table" "List Tables" "Drop Table" "Insert into Table" "Select From Table" "Delete From Table" "Go to Main Menu"
