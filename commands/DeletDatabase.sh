@@ -1,3 +1,6 @@
+    #!/bin/bash
+    
+    
     echo "Enter the database you want to drop:"
     read DB
     
