@@ -1,3 +1,6 @@
+    #!/bin/bash
+    
+    
     echo "Enter the Table Name:"
     read TableName
     flag=0
