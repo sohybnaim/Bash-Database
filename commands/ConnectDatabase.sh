@@ -1,3 +1,6 @@
+    #!/bin/bash
+    
+    
     echo "Enter the Database you want to connect to:"
     read DatabaseConnect
 
