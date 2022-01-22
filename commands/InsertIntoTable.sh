@@ -1,3 +1,6 @@
+    #!/bin/bash    
+    
+    
     echo "Enter the table you want to insert into:"
     read TableName
     # check if table exists
