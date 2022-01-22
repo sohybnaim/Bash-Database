@@ -1,3 +1,6 @@
+    
+    #!/bin/bash
+    
     dbs=`ls -A | wc -l`
 
     if [ $dbs -eq 0 ]
