@@ -1,4 +1,4 @@
-function DropDatabase {
+
     echo "Enter the database you want to drop:"
     read DB
     
@@ -11,4 +11,3 @@ function DropDatabase {
     else
         echo "$DB database doesn't exist"
     fi
-}
